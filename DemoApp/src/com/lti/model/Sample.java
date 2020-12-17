@@ -4,4 +4,7 @@ public class Sample {
 	public void show() {
 		System.out.println("hello world");
 	}
+	public void meth() {
+		System.out.println("hao");
+	}
 }
