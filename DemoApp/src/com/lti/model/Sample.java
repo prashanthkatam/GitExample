@@ -5,6 +5,6 @@ public class Sample {
 		System.out.println("hello world");
 	}
 	public void meth() {
-		System.out.println("hao");
+		System.out.println("hai");
 	}
 }
